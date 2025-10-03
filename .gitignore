@@ -32,3 +32,4 @@ yarn-error.log*
 /public/robots.txt
 /public/logo192.png
 /public/logo512.png
+/public/favicon.ico
